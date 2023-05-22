@@ -1,0 +1,7 @@
+2022-08-01 22:09:00 MainThread:71724 [用户充值] INFO [D:/teach/42-日志管理.py:11] xxx充值了5毛钱
+2022-08-01 22:09:00 MainThread:71724 [用户转账] INFO [D:/teach/42-日志管理.py:18] xxx给yyy转了5毛钱
+2022-08-01 22:09:00 MainThread:71724 [用户提现] INFO [D:/teach/42-日志管理.py:21] xxx提现了5毛钱
+2022-08-01 22:09:13 MainThread:74628 [用户充值] INFO [D:/teach/42-日志管理.py:11] xxx充值了5毛钱
+2022-08-01 22:09:13 MainThread:74628 [用户转账] INFO [D:/teach/42-日志管理.py:18] xxx给yyy转了5毛钱
+2022-08-01 22:09:13 MainThread:74628 [用户提现] INFO [D:/teach/42-日志管理.py:21] xxx提现了5毛钱
+2022-08-01 22:09:14 MainThread:74328 [用户充值] INFO [D:/teach/42-日志管理.py:11] xxx充值了5毛钱

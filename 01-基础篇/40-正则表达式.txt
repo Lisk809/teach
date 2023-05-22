@@ -1,0 +1,92 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,en-US;q=0.6
+Cache-Control: no-cache
+Connection: keep-alive
+Host: movie.douban.com
+Pragma: no-cache
+Referer: https://cn.bing.com/
+sec-ch-ua-mobile: ?0
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: cross-site
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+
+
+
+
+
+Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, a quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.
+Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease. This often exists in a man of 60 more than a boy of 20. Nobody grows old merely by a number of years. We grow old by deserting our ideals.
+Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul. Worry, fear, self-distrust bows the heart and turns the spirit back to dust.
+
+xg
+xyg
+xzg
+xyyg
+xyyyg
+xzzzzzg
+xyyyyyg
+
+
+I'm never going to find another girl like you who likes me and is, you know, real.
+
+xg
+xyg
+xzg
+xyyg
+xyxyg
+xyyyg
+xzzzzzg
+xyxyxyg
+xyyyyyg
+
+
+play the piano
+play the guitar
+Play with toys
+
+xyg
+time
+xxyygg
+1234567
+abc12345
+ABCDEFGHI
+ab  cd  ef
+
+
+xyg
+zyg yx
+zyx xy
+xygxyg
+xyggyx
+
+
+<div><span>小飞的西瓜视频:https://v.ixigua.com/2asfSbf/</span></div>
+
+
+13880689999     15591888888
+ab13430826666
+15591558888
+1339737977777
+14678555555
+15517444444
+158027533333
+13339900000
+14763111111
+
+\b(13[0-9]|14[5-9]|15[0-35-9])\d{8}\b
+
+\b1\d{10}\b
+
+
+Tel:028-7654321
+
+s = '''Host: movie.douban.com
+Pragma: no-cache
+Referer: https://cn.bing.com/'''
+
+
+s = 'xyg,- time,  !dog,  cat'
